@@ -1,0 +1,7 @@
+[Activity]
+name = Piensa y Escribe
+activity_version = 1
+bundle_id = org.sugarlabs.PiensaEscribe
+exec = sugar-activity activity.PiensaEscribeActivity
+icon = icono
+license = GPLv2+

@@ -1,0 +1,3 @@
+Sintetizador de voz
+Captura de eventos
+Desconocimiento del lenguaje
